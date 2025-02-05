@@ -5,7 +5,7 @@
 
 <h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> I'm an Egyptian student at Cairo University's Faculty of Computers and Artificial Intelligence.</h3>
 
-- ⚛️ I’m currently studying Back-end Development using Node.js, React and Django.
+- ⚛️ I’m currently studying Back-end Development using Node.js, Spring and Django.
 - 📖 Reading the "Designing Data Intensive Applications" Book, loving it so far!
 - ⚡ Fun fact **I am always the best⭐**
 <br><br>![](https://komarev.com/ghpvc/?username=hatem32&color=blue)
